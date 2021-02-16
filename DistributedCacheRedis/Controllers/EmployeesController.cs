@@ -5,8 +5,6 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DistributedCacheRedis.Controllers
 {
-    
-    
     [Route("api/v1/[controller]")]
     [ApiController]
     public class EmployeesController : ControllerBase
